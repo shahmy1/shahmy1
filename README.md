@@ -27,7 +27,6 @@ ___
 
 ___
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahmy1&show_icons=true&locale=en&layout=compact" alt="shahmy1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahmy1&show_icons=true&locale=en" alt="shahmy1" /></p>
 
